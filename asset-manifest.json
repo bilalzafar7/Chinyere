@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6d5cc1b.css",
-    "main.js": "/static/js/main.b3887de7.js",
-    "static/media/Chinyere.mp4": "/static/media/Chinyere.297b6d78f01ec58b448c.mp4",
-    "static/media/5.png": "/static/media/5.dd990ea3f9d417786c42.png",
-    "static/media/2.png": "/static/media/2.22436380a00910312a32.png",
-    "static/media/3.png": "/static/media/3.0211d1ba2cff65ef7e65.png",
-    "static/media/4.png": "/static/media/4.e6326158a29c5d8b504e.png",
-    "static/media/1.png": "/static/media/1.0a294dc63d6f9982a259.png",
-    "index.html": "/index.html",
-    "main.a6d5cc1b.css.map": "/static/css/main.a6d5cc1b.css.map",
-    "main.b3887de7.js.map": "/static/js/main.b3887de7.js.map"
+    "main.css": "/Chinyere/static/css/main.a6d5cc1b.css",
+    "main.js": "/Chinyere/static/js/main.d0f87d18.js",
+    "static/media/Chinyere.mp4": "/Chinyere/static/media/Chinyere.297b6d78f01ec58b448c.mp4",
+    "static/media/5.png": "/Chinyere/static/media/5.dd990ea3f9d417786c42.png",
+    "static/media/2.png": "/Chinyere/static/media/2.22436380a00910312a32.png",
+    "static/media/3.png": "/Chinyere/static/media/3.0211d1ba2cff65ef7e65.png",
+    "static/media/4.png": "/Chinyere/static/media/4.e6326158a29c5d8b504e.png",
+    "static/media/1.png": "/Chinyere/static/media/1.0a294dc63d6f9982a259.png",
+    "index.html": "/Chinyere/index.html",
+    "main.a6d5cc1b.css.map": "/Chinyere/static/css/main.a6d5cc1b.css.map",
+    "main.d0f87d18.js.map": "/Chinyere/static/js/main.d0f87d18.js.map"
   },
   "entrypoints": [
     "static/css/main.a6d5cc1b.css",
-    "static/js/main.b3887de7.js"
+    "static/js/main.d0f87d18.js"
   ]
 }
